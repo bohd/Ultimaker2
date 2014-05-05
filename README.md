@@ -1,6 +1,11 @@
-Ultimaker2
+Ultimaker2 tweak by Bohd
 ==========
 
-In this repository you will find the documentation and source files for the Ultimaker2 3D printer. If you are missing a part or information of the Electronics feel free to file an issue on github.
+In this repository you will find improved designs for Ultimaker 2, maily for machined metal parts. BOHD implements Design for Manufacturing and Assembly to lower down maching cost and assembly cost.
 
-Harma Woldhuis Ultimaker Research and Development
+
+BOHD is the abbreviation of Bohd Open Hardware Distribution, founded in May 2014 and locates in Boston, Massachusetts.
+
+Cuurently we are working on the following parts:
+ * 1306 Hot end hoder bottom
+ * 1301 Integrated nozzle heater block
